@@ -37,7 +37,6 @@ FUNGSI solve_maze(maze, r, c, end_r, end_c):
 
 ---
 
----
 
 ## Flowchart Sistem
 
